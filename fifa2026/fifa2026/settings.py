@@ -34,7 +34,7 @@ JAZZMIN_SETTINGS = {
    
     "site_brand": "FIFA2026",
     "site_icon":  "Images/ICONO2.png",  
-    "welcome_sign": "Bienvenido al sistema de la FIIFA2026",
+    "welcome_sign": "Bienvenido al sistema de la FIFA2026",
  
     "copyright": "© FIFA 2026",
     "button_rounded": True,
