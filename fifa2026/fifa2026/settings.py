@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-n_&07%29dj4e5q!5)b=)4!o$r@g7t0ywb!jf7%-ry+e_=zu35a
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['.vercel.app']
 
 JAZZMIN_SETTINGS = {
     "site_logo": "Images/ICONO2.png",
